@@ -29,6 +29,11 @@ header{
     border-radius: 20px;
     padding: 10px;
 }
-.container-fluid text{
-    padding-left: 45px;
+.projectitems{
+background-color: #2B2D47;
+display: flex;
+}
+.contact{
+    display: flex;
+    background-color: rgb(41, 41, 56);
 }
