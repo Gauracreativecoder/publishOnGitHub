@@ -12,13 +12,16 @@ header{
 }
 .about img{
     border-radius: 50px;
+    width: fit-content;
 
 }
 .aboutbody{
-     margin-left: 50px;
+     margin-top: 70px;
+    margin-left: 50px;
      color: antiquewhite;
      font-size: x-large;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
+     align-items: center;
 }
 .container-fluid{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
