@@ -8,7 +8,7 @@ header{
     padding: 45px;
     display: flex;
     align-items: center;
-    margin-bottom: 0px;
+    
 }
 .about img{
     border-radius: 50px;
@@ -23,17 +23,10 @@ header{
 .container-fluid{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:aliceblue;
-    padding-bottom: 45px;
+  
 }
 .container-fluid img{
     border-radius: 20px;
     padding: 10px;
 }
-.projectitems{
-background-color: #2B2D47;
-display: flex;
-}
-.contact{
-    display: flex;
-    background-color: rgb(41, 41, 56);
-}
+
